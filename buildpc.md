@@ -1,7 +1,9 @@
 | Компонент             | Модель                                                                 | Ціна (грн) | Опис                                                                 |
 |-----------------------|------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
-| **Процесор (CPU)**    | [AMD Ryzen 5 5600](https://hard.rozetka.com.ua/amd-100-100000927box/p342341803/)       | 5 300      | ![AMD Ryzen 5 5600]() |
-| **Материнська плата** | [MSI PRO B660M-A DDR4](https://telemart.ua/ua/products/msi-pro-b660m-a-ddr4-s1700-intel-b660/?srsltid=AfmBOoqhRLDKeIUCE8Txx3N0EoXgBS3cQzMVGz0ES4tcKr3_LNkzaEv3)       | 4 000      | ![MSI PRO B660M-A DDR4]() |
+| **Процесор (CPU)**    | [AMD Ryzen 5 5600](https://hard.rozetka.com.ua/amd-100-100000927box/p342341803/)       | 5 300      | ![AMD Ryzen 5 5600](![image](https://github.com/user-attachments/assets/b24e3796-f129-43b8-a797-51e0e68834ed)
+) |
+| **Материнська плата** | [MSI PRO B660M-A DDR4](https://telemart.ua/ua/products/msi-pro-b660m-a-ddr4-s1700-intel-b660/?srsltid=AfmBOoqhRLDKeIUCE8Txx3N0EoXgBS3cQzMVGz0ES4tcKr3_LNkzaEv3)       | 4 000      | ![MSI PRO B660M-A DDR4](![image](https://github.com/user-attachments/assets/e2214f0f-424d-4062-8015-8a04d0a804eb)
+) |
 | **Оперативна пам'ять**| [Kingston 16GB (2x8GB) DDR4 3200MHz](https://hotline.ua/ua/computer-moduli-pamyati-dlya-pk-i-noutbukov/kingston-fury-16-gb-2x8gb-ddr4-3200-mhz-beast-black-kf432c16bbk216/) | 2 500      | ![Kingston 16GB]()              |
 | **Відеокарта (GPU)**  | [NVIDIA GeForce RTX 3060 12GB](https://hard.rozetka.com.ua/gigabyte-gv-n3060wf2oc-12gd/p360071712/)      | 15 000     | ![RTX 3060]()                   |
 | **Накопичувач**       | [Samsung 970 EVO Plus 500GB NVMe SSD](https://hotline.ua/ua/computer-diski-ssd/samsung-970-evo-plus-500-gb-mz-v7s500bw/) | 3 000      | ![Samsung 970 EVO Plus]()         |
