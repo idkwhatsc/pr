@@ -10,7 +10,7 @@
 | **Блок живлення**     | [Seasonic S12III 650W 80+ Bronze](https://hard.rozetka.com.ua/seasonic_ssr_650gb3/p191882580/) | 3 000      | ![Seasonic S12III](https://example.com/seasonic-s12iii.jpg)          |
 | **Корпус**            | [Deepcool Matrexx 50](https://hard.rozetka.com.ua/gamemax-edge/p386538324/?gad_source=1&gclid=EAIaIQobChMIwrX5-rfeiwMVuWSRBR3UdSuVEAQYASABEgLGdfD_BwE)         | 1 500      | ![Deepcool Matrexx 50](https://example.com/deepcool-matrexx-50.jpg)   |
 | **Монітор**           | [Dell P2419H 24" IPS](https://technokoshyk.com.ua/ua/p2273100880-bezramochnyj-monitor-dell.html)                 | 4 500      | ![Dell P2419H](https://example.com/dell-p2419h.jpg)                   |
-| **Клавіатура + Миша**           | [Комплект проводной Defender Glion C-123 UKR]  (https://hard.rozetka.com.ua/defender-4714033451222/p415839294/)                 |  500      | ![Комплект проводной Defender Glion C-123 UKR] (https://hard.rozetka.com.ua/defender-4714033451222/p415839294/)                 |
+| **Клавіатура + Миша**           | [Комплект проводной Defender Glion C-123 UKR](https://hard.rozetka.com.ua/defender-4714033451222/p415839294/)                 |  500      | ![Комплект проводной Defender Glion C-123 UKR](https://hard.rozetka.com.ua/defender-4714033451222/p415839294/)                 |
 
 **Загальна вартість:** 40 000 грн
 
