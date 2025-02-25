@@ -1,6 +1,6 @@
 | Компонент             | Модель                                                                 | Ціна (грн) | Опис                                                                 |
 |-----------------------|------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
-| **Процесор (CPU)**    | [AMD Ryzen 5 5600](https://hard.rozetka.com.ua/amd-100-100000927box/p342341803/)       | 5 300      | ![AMD Ryzen 5 5600](![image](https://github.com/user-attachments/assets/b24e3796-f129-43b8-a797-51e0e68834ed)
+| **Процесор (CPU)**    | [AMD Ryzen 5 5600](https://hard.rozetka.com.ua/amd-100-100000927box/p342341803/)       | 5 300      | ![](https://github.com/user-attachments/assets/b24e3796-f129-43b8-a797-51e0e68834ed)
 ) |
 | **Материнська плата** | [MSI PRO B660M-A DDR4](https://telemart.ua/ua/products/msi-pro-b660m-a-ddr4-s1700-intel-b660/?srsltid=AfmBOoqhRLDKeIUCE8Txx3N0EoXgBS3cQzMVGz0ES4tcKr3_LNkzaEv3)       | 4 000      | ![MSI PRO B660M-A DDR4](![image](https://github.com/user-attachments/assets/e2214f0f-424d-4062-8015-8a04d0a804eb)
 ) |
